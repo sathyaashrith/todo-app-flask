@@ -32,4 +32,3 @@ MVC-style project organization
 RESTful API design
 Git & GitHub workflow<img width="1904" height="941" alt="Screenshot 2026-01-06 133145" src="https://github.com/user-attachments/assets/f487ac23-f337-478d-9298-97f7230b1741" />
 
-Debugging and error handling
